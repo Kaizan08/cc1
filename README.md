@@ -13,10 +13,17 @@ The following assumes you have all of the recommended tools listed above install
 
 1. Clone the project:
 
-$ git clone git@github.com:kaizan08/cc1.git
-$ cd cc1
+<blockquote>$ git clone git@github.com:kaizan08/cc1.git</blockquote>
 
 2. Create and initialize virtualenv for the project:
 
-$ python3 -m venv 
-$ pip install -r requirements.txt
+<blockquote>$ python3 -m venv cc1</blockquote>
+<blockquote>$ cd cc1</blockquote>
+<blockquote>$ source bin/activate</blockquote>
+<blockquote>$ pip install -r requirements.txt</blockquote>
+
+<h3>Tests</h3>
+To run tests use the following command:
+
+<blockquote>$ pytest</blockquote>
+
