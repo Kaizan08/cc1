@@ -15,7 +15,7 @@ The following assumes you have all of the recommended tools listed above install
 
 <blockquote>$ git clone git@github.com:kaizan08/cc1.git</blockquote>
 
-<ul><li>2. Create and initialize virtualenv for the project:</li></ul>
+<ul><li>Create and initialize virtualenv for the project:</li></ul>
 
 <blockquote>$ python3 -m venv cc1</blockquote>
 <blockquote>$ cd cc1</blockquote>
