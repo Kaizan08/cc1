@@ -2,20 +2,20 @@
 
 At the bare minimum you'll need the following for your development environment:
 
-<ol><li>Python</li></ol>
+<ul><li>Python</li></ul>
 
 It is strongly recommended to also install and use the following tool:
 
-<ol><li>virtualenv</li></ol>
+<ul><li>virtualenv</li></ul>
 
 
 The following assumes you have all of the recommended tools listed above installed.
 
-1. Clone the project:
+<ul><li>Clone the project:</li></ul>
 
 <blockquote>$ git clone git@github.com:kaizan08/cc1.git</blockquote>
 
-2. Create and initialize virtualenv for the project:
+<ul><li>2. Create and initialize virtualenv for the project:</li></ul>
 
 <blockquote>$ python3 -m venv cc1</blockquote>
 <blockquote>$ cd cc1</blockquote>
